@@ -1,14 +1,14 @@
 export const navLinks = [
     {
-        name: "Features"
+        name: "Características"
     },
     {
-        name: "Pricing"
+        name: "Preços"
     },
     {
-        name: "Enterprise"
+        name: "Empresa"
     },
     {
-        name: "Carreers"
+        name: "Carreiras"
     }
 ]
