@@ -21,7 +21,7 @@ export function Navbar() {
         </div>
       </div>
 
-      <div className="flex gap-x-5">
+      <div className="flex gap-x-8">
         <p className="hidden lg:block font-medium text-[#36485C]">
           Abrir uma conta
         </p>
